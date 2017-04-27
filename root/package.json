@@ -1,0 +1,11 @@
+{
+  "name": "react-project",
+  "private": true,
+  "dependencies": {
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
